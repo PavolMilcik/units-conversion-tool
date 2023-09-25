@@ -28,7 +28,7 @@ You have a choice of the following conversions:
 
 5. Speed units conversions (km/h, m/s, mph, kn or kt)
 
-6 .Area units and their conversions (square m, square ft, ha, ac, square km, square mi)
+6. Area units and their conversions (square m, square ft, ha, ac, square km, square mi)
 
 7. Memory units and their conversions (b, B, KB, MB, GB, TB, PB, EB, ZB, YB)
 
